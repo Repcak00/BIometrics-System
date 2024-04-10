@@ -1,6 +1,6 @@
 
 # Facial Recognition 👨
-Authors: *Jakub Polczyk*, *Szymon Leszkiewicz*, *Kacper Kozaczko*
+Authors:  *Kacper Kozaczko*, *Jakub Polczyk*, *Szymon Leszkiewicz*
 
 ## Table of Contents
 1. [Project description](#Project-description)
